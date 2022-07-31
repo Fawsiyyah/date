@@ -9,17 +9,17 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    overflow: hidden;
+    overflow-y: hidden;
 }
 
 .check {
     font-size: 28px;
     font-family: 'Dancing-Script', san-sherif;
-    color: rgb(70, 16, 70);
+    color: rgb(235, 79, 235);
 }
 
 .checkdate{
-    border: 2px solid rgb(70, 16, 70);
+    border: 2px solid rgb(235, 79, 235);
     padding-left: 20px;
     padding-right: 5px
 }
